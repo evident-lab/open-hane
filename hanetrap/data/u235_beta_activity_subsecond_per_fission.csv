@@ -1,0 +1,11 @@
+time_s,beta_activity_s-1_per_fission,source
+0.0,0.32901039344851524,Bateman-chain reconstruction from t=0 inventory
+0.1,0.3038191768442567,Bateman-chain reconstruction from t=0 inventory
+0.2,0.2831266455767332,Bateman-chain reconstruction from t=0 inventory
+0.3,0.2656386123900557,Bateman-chain reconstruction from t=0 inventory
+0.4,0.2505652838229419,Bateman-chain reconstruction from t=0 inventory
+0.5,0.2373789569935726,Bateman-chain reconstruction from t=0 inventory
+0.6,0.2257098643345563,Bateman-chain reconstruction from t=0 inventory
+0.7,0.2152878804243135,Bateman-chain reconstruction from t=0 inventory
+0.8,0.2059086643580447,Bateman-chain reconstruction from t=0 inventory
+0.9,0.197413204746886,Bateman-chain reconstruction from t=0 inventory
