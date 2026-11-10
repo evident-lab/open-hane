@@ -4,6 +4,25 @@ Code for the radiation-belt part of the paper: beta trapping in the IGRF-14 fiel
 artificial electron belt, and prompt X-ray plus belt dose to the LEO fleet (CelesTrak, 2026-01-14).
 It produces Figs 2-4 and the supplementary tables of radiation-driven fleet loss.
 
+## Paper
+
+This code accompanies:
+
+> Z. Petersen, H. Qin, S. Thiele and S. Philippe (2026). Effects of a Nuclear Detonation in Low Earth Orbit.
+> arXiv preprint arXiv:2611.09827. https://arxiv.org/abs/2611.09827
+
+If you use this code, please cite the paper:
+
+```bibtex
+@article{petersen2026effects,
+  title   = {Effects of a Nuclear Detonation in Low Earth Orbit},
+  author  = {Petersen, Zachary and Qin, Hong and Thiele, Sarah and Philippe, S{\'e}bastien},
+  journal = {arXiv preprint arXiv:2611.09827},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2611.09827}
+}
+```
+
 ## Layout
 
 ```
