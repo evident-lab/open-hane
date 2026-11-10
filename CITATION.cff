@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "open-HANE"
+repository-code: "https://github.com/evident-lab/open-hane"
+authors:
+  - family-names: "Petersen"
+    given-names: "Zachary"
+  - family-names: "Qin"
+    given-names: "Hong"
+  - family-names: "Thiele"
+    given-names: "Sarah"
+  - family-names: "Philippe"
+    given-names: "Sébastien"
+preferred-citation:
+  type: article
+  title: "Effects of a Nuclear Detonation in Low Earth Orbit"
+  authors:
+    - family-names: "Petersen"
+      given-names: "Zachary"
+    - family-names: "Qin"
+      given-names: "Hong"
+    - family-names: "Thiele"
+      given-names: "Sarah"
+    - family-names: "Philippe"
+      given-names: "Sébastien"
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.09827"
+  url: "https://arxiv.org/abs/2611.09827"
